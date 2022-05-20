@@ -13,7 +13,7 @@
 This repository contains some experimental frontend page.
 
 # Pages
-
+- [Implement a jQuery component](./modal.html)
 
 # Resources
 
